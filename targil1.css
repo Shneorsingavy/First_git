@@ -1,0 +1,39 @@
+body{
+    background-color: chocolate;
+}
+
+.title{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+.main{
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.box{
+    background-color: white;
+    width: 25%;
+    height: 250px;
+    border: 2px solid bl
+    ack;
+    border-radius: 5px;
+    margin:15px;
+    padding: 10px;
+    text-align: left;
+    position: relative;
+}
+
+img{
+    position: absolute;
+
+bottom: 0;
+
+}
